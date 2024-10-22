@@ -1,4 +1,4 @@
-Welcome to my GitHub repository, where I showcase a diverse range of sample projects that demonstrate my expertise in data science, machine learning, and artificial intelligence. With over 13 years of experience in data-driven solutions and AI engineering, I have a deep understanding of the intersection between business and technology.
+Welcome to my Sample Projects repository! This collection showcases a variety of data science, machine learning, and AI-based projects I’ve developed. Each project demonstrates different techniques and approaches to solving real-world problems using advanced computational methods.
 
 Featured Projects
 
